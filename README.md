@@ -7,7 +7,7 @@ I modeled the system as an artifical neural network. To fit the data into the mo
 * Normalization to numeric data
 * One hot encoding to strings  
 
-Then I built the neural network and explored the best parameters for training to reach most accurate results. I analyized the changes in:  
+Then I built the neural network and explored the best parameters for training to reach most accurate results. I analyzed the changes in:  
 * Number of layers
 * Number of nodes
 * Batch size
